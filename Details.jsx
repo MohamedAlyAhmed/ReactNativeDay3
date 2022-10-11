@@ -8,7 +8,7 @@ export const Details = ({ navigation }) => {
       <TouchableOpacity
         style={styles.button}
         onPress={() => {
-          navigator.navigate("Home");
+          navigation.navigate("Home");
         }}
       >
         <Text>Go To Home</Text>
