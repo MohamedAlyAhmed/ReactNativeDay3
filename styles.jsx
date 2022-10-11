@@ -5,9 +5,9 @@ export const styles = StyleSheet.create({
     width: 200,
     marginHorizontal: "25%",
     borderWidth: 2,
-    borderColor: "black",
+    borderColor: "#fff222",
     padding: 20,
     marginVertical: 10,
-    backgroundColor: "grey",
+    backgroundColor: "#8bc34a",
   },
 });
